@@ -1,3 +1,3 @@
 git pull
-call copy_worlds_there.bat
+call bin/load_worlds.bat
 pause
