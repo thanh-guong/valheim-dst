@@ -1,2 +1,2 @@
-copy_worlds_there.bat
+call copy_worlds_there.bat
 pause
